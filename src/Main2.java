@@ -1,3 +1,6 @@
+/***
+杨金凤添加注释
+****/
 public class Main2 {
     private  static volatile    int a = 0;
     public static void main(String[] args) {
